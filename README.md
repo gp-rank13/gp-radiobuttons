@@ -17,7 +17,7 @@ The extension supports up to 10 different radio button groups, with up to 16 rad
 
 ## Installation
 
-Download the extension (library) files for either MacOS or Windows.  
+Download the extension (library) files for either MacOS or Windows from the [Releases](https://github.com/gp-rank13/gp-radiobuttons/releases) page.  
 
 Mac users will need to move the _libRadioButtons.dylib_ file into this folder and then restart Gig Performer:
 ```
