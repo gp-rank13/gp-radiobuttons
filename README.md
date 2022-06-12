@@ -13,17 +13,17 @@ Radio button functionality can also be easily added to existing button widgets i
 
 The extension supports up to 10 different radio button groups, with up to 16 radio buttons in each group.
 
-> _Disclaimer: This is a user-created extension and is not supported by Deskew Techologies. Extensions can cause unexpected behaviour in Gig Performer, and in extreme situations could cause it to crash. Please test it heavily before using it in any live performances!_
+> _Disclaimer: This is a user-created extension and is not supported by Deskew Techologies. Extensions can cause unexpected behaviour in Gig Performer, and in extreme situations could cause it to crash. Please test it thoroughly before using it in any live performances!_
 
 ## Installation
 
 Download the extension (library) files for either MacOS or Windows.  
 
-Mac users will need to move the _libRadioButtons.dylib_ file into this folder and then restart GP:
+Mac users will need to move the _libRadioButtons.dylib_ file into this folder and then restart Gig Performer:
 ```
 /Users/Shared/Gig Performer/Extensions
 ```
-Windows users will need to move the _RadioButtons.dll_ file into this folder and then restart GP:
+Windows users will need to move the _RadioButtons.dll_ file into this folder and then restart Gig Performer:
 ```
 C:\Users\Public\Documents\Gig Performer\Extensions
 ```
