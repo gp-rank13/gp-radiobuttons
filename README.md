@@ -31,7 +31,7 @@ When opening Gig Perfomer, a prompt will appear asking to confirm whether to ins
 
 ## Customizing the Template Panels
 
-The panels are stored within the compiled extension, but these can be overridden with custom versions. Custom panels must be created in Gig Performer (e.g. using the in-built templates as a starting point) and then exported as individual panel files.  
+The panels are stored within the compiled extension, but these can be overwritten with custom versions. Custom panels must be created in Gig Performer (e.g. using the in-built templates as a starting point) and then exported as individual panel files.  
 
 Panel files must be moved to the extension folder and names must follow the format:
 ```
