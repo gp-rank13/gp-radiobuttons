@@ -62,7 +62,7 @@ RADIO_1_1, RADIO_1_2, RADIO_1_3
 RADIO_2_1, RADIO_2_2, RADIO_2_3, RADIO_2_4
 ```
 > **_Important Note_**  
-_If you add multiple identical panels from the template list (e.g. add two “Radio Buttons x2” panels, then you will need to manually update the widget names to ensure they have a unique Radio Group Number. This is also the case if you use radio buttons in the Global Rackspace – you must ensure the Radio Group Number is different to any group number used in Local Rackspaces.  
+_If you add multiple identical panels from the template list (e.g. add two “Radio Buttons x2” panels), then you will need to manually update the widget names to ensure they have a unique Radio Group Number. This is also the case if you use radio buttons in the Global Rackspace – you must ensure the Radio Group Number is different to any group number used in Local Rackspaces.  
 Another scenario is if you duplicate the widgets you will need to remove any additional numbers at the end of the widget name added by Gig Performer and ensure the name is unique (e.g. change RADIO_1_1_1 to RADIO_1_3)._
 
 ### Advanced Syntax
