@@ -48,8 +48,6 @@ The extension relies on a special naming format for the widgets, added in the _A
 
 <img width="553" alt="gp-radiobuttons-widget-properties" src="https://user-images.githubusercontent.com/107261652/173212382-7e43735e-c3f1-4c4a-b2f0-9108003ed884.png">
 
-<br />
-
 ### Syntax
 
 > RADIO\_[GroupNumber]\_[ButtonNumber]
