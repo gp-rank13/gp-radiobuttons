@@ -63,6 +63,9 @@ RADIO_1_1, RADIO_1_2, RADIO_1_3
 ```
 RADIO_2_1, RADIO_2_2, RADIO_2_3, RADIO_2_4
 ```
+> **_Important Note_**  
+_If you add multiple identical panels from the template list (e.g. add two “Radio Buttons x2” panels, then you will need to manually update the widget names to ensure they have a unique Radio Group Number (and to remove any additional numbers at the end of the widget name added by Gig Performer) e.g. change RADIO_1_1_1 to RADIO_2_1). This is also the case if you add use radio buttons in the Global Rackspace – you must ensure the Radio Group Number is different to any group number used in Local Rackspaces._
+
 ### Advanced Syntax
 
 You can also use the radio buttons on a single plugin parameter, where the buttons will select specific values e.g. creating buttons for _Slow_ , _Medium_ and _Fast_ settings on a _Speed_ parameter.
@@ -74,7 +77,8 @@ You can also use the radio buttons on a single plugin parameter, where the butto
 - The _Parameter Value_ is an integer between 0 and 100.  
  
 
-__When using the advanced systax, the widgets *cannot* be mapped to plugn parameters. Instead, the widget names will reference the plugin handle and the extension will set the parameter value directly in the plugin.__
+> **_Important Note_**  
+_When using the advanced syntax, the widgets <u>cannot</u> be mapped to plugin parameters. Instead, the widget names will reference the plugin handle and the extension will set the parameter value directly in the plugin._
 
 __Example 1__  
 Add a plugin handle to the _Helix Native_ plugin (named _NATIVE_), and then the following widget names will set the first 4 Snapshots (parameter 36):
